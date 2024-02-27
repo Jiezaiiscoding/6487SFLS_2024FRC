@@ -1,5 +1,5 @@
 Copyright (c) 2009-2024 FIRST and other WPILib contributors
-All rights reserved.1
+All rights reserved.test
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
